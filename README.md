@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there 👋 I'm Prashanth (Chiru)
 
-<!--
-**chiruyadav/chiruyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student  
+📍 Bangalore Institute of Technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Embedded Systems
+- IoT Systems
+- Robotics
+- Artificial Intelligence
+- Communication Networks
+
+---
+
+## 🛠️ Technologies I Use
+
+- C / C++
+- Python
+- Arduino
+- ESP32
+- Raspberry Pi
+- IoT Platforms (Blynk, ThingSpeak)
+
+---
+
+## 📂 Projects
+
+### 🌍 Air Pollution Monitoring System
+ESP32 based system to monitor air quality using MQ135, MQ6, MQ7 sensors with cloud monitoring.
+
+### 📡 Smart Campus Private Communication Network
+Offline communication system using LoRa technology for emergency communication without internet.
+
+### 🤖 Smart Warehouse Assistant Robot
+Autonomous robot for warehouse product movement using sensors and robotic arm.
+
+---
+
+## 📫 Contact
+
+Email: iamcprashanth@gmail.com  
+Location: Bangalore, India
