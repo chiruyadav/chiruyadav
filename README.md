@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Prashanth (Chiru)
+# Hi there 👋 I'm Prashanth
 
 🎓 Electronics and Communication Engineering Student  
 📍 Bangalore Institute of Technology  
